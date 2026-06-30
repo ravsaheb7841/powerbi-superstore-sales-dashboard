@@ -172,6 +172,7 @@ PowerBI-Superstore-Dashboard/
 │
 ├── Dashboard.pbix
 ├── Superstore.xlsx
+├── Sales Performance Dashboard.pdf
 ├── Images/
 │   ├── ExecutiveOverview.png
 │   ├── ProductRegionalAnalysis.png
