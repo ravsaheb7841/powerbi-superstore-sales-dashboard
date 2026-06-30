@@ -200,17 +200,27 @@ git clone https://github.com/yourusername/PowerBI-Superstore-Dashboard.git
 
 # 📷 Dashboard Preview
 
-### Executive Overview
-Images\CustomerOverview.png
+## Executive Overview
 
-### Product & Regional Performance
-Images/ProductRegionalAnalysis.png
+![Executive Overview](Images/ExecutiveOverview.png)
 
-### Product Analysis
-Images/ProductAnalysis.png
+---
 
-### Customer Overview
-*Images/CustomerOverview.png*
+## Product & Regional Performance
+
+![Product & Regional Performance](Images/ProductRegionalAnalysis.png)
+
+---
+
+## Product Analysis
+
+![Product Analysis](Images/ProductAnalysis.png)
+
+---
+
+## Customer Overview
+
+![Customer Overview](Images/CustomerOverview.png)
 
 ---
 
